@@ -1,13 +1,13 @@
 # V2Board 主题 Nest
-> 前后端分离主题，仅需填入后端地址即可 
-> 请注意同源策略
+> 前后端分离主题，仅需填入后端地址即可  
+> 请注意同源策略 
 
-反馈群：[https://t.me/dyaogroup](https://t.me/dyaogroup)
-兼容 `V2Board` 及 `XBoard` 
-支持自定义主题颜色 
-支持 `Google reCAPTCHA v2` 
-自适应移动端、PC端 
-自适应系统主题颜色 
+反馈群：[https://t.me/dyaogroup](https://t.me/dyaogroup)  
+兼容 `V2Board` 及 `XBoard`  
+支持自定义主题颜色  
+支持 `Google reCAPTCHA v2`  
+自适应移动端、PC端  
+自适应系统主题颜色  
 
 ## 使用说明
 
