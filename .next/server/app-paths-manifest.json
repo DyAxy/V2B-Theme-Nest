@@ -1,0 +1,18 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/(dashboard)/invite/page": "app/(dashboard)/invite/page.js",
+  "/(dashboard)/knowledge/page": "app/(dashboard)/knowledge/page.js",
+  "/(dashboard)/node/page": "app/(dashboard)/node/page.js",
+  "/(dashboard)/dashboard/page": "app/(dashboard)/dashboard/page.js",
+  "/(dashboard)/order/[id]/page": "app/(dashboard)/order/[id]/page.js",
+  "/(dashboard)/order/page": "app/(dashboard)/order/page.js",
+  "/(dashboard)/plan/[id]/page": "app/(dashboard)/plan/[id]/page.js",
+  "/(dashboard)/plan/page": "app/(dashboard)/plan/page.js",
+  "/(dashboard)/profile/page": "app/(dashboard)/profile/page.js",
+  "/(dashboard)/ticket/[id]/page": "app/(dashboard)/ticket/[id]/page.js",
+  "/(dashboard)/ticket/page": "app/(dashboard)/ticket/page.js",
+  "/(users)/forgetpassword/page": "app/(users)/forgetpassword/page.js",
+  "/(users)/login/page": "app/(users)/login/page.js",
+  "/(users)/register/page": "app/(users)/register/page.js"
+}
