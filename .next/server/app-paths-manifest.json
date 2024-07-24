@@ -1,10 +1,10 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
   "/page": "app/page.js",
+  "/(dashboard)/dashboard/page": "app/(dashboard)/dashboard/page.js",
   "/(dashboard)/invite/page": "app/(dashboard)/invite/page.js",
   "/(dashboard)/knowledge/page": "app/(dashboard)/knowledge/page.js",
   "/(dashboard)/node/page": "app/(dashboard)/node/page.js",
-  "/(dashboard)/dashboard/page": "app/(dashboard)/dashboard/page.js",
   "/(dashboard)/order/[id]/page": "app/(dashboard)/order/[id]/page.js",
   "/(dashboard)/order/page": "app/(dashboard)/order/page.js",
   "/(dashboard)/plan/[id]/page": "app/(dashboard)/plan/[id]/page.js",
