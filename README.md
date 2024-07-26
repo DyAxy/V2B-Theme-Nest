@@ -24,6 +24,11 @@
 
 请将 `apiUrl` 修改为你的后端地址，确保地址以斜杠结尾。同时，你也可以根据需要修改 `title` 和 `color`。
 
+### 后端修改
+> 为保证支付回调都能返回来源地址，而不是配置的地址，可以修改 V2Board 后端文件
+`app/Services/PaymentService.php` 第 50 行，修改 `return_url` ：
+将 `config('v2board.app_url')` 修改为 `$_SERVER["HTTP_ORIGIN"]` 即可返回来源地址
+
 ### 部署运行
 在部署之前，请确保你的环境满足以下要求：
 - Node.js 版本 >= 18
