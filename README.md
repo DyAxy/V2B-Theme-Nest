@@ -26,6 +26,7 @@
 
 ### 后端修改
 > 为保证支付回调都能返回来源地址，而不是配置的地址，可以修改 V2Board 后端文件
+
 `app/Services/PaymentService.php` 第 50 行，修改 `return_url` ：
 将 `config('v2board.app_url')` 修改为 `$_SERVER["HTTP_ORIGIN"]` 即可返回来源地址
 
